@@ -1,0 +1,10 @@
+python-dateutil
+prettytable
+matplotlib
+pandas
+scikit-learn
+xgboost
+tqdm
+numpy
+seaborn
+nltk
