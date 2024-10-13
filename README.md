@@ -47,6 +47,9 @@ The included `requirements.txt` file can be used to install the required Python 
 
 ```commandline
 pip install -r requirements.txt
+
+to run from main directory use something like this:
+python ./src/classification.py ./data/combined_logs.csv
 ```
 
 ### feature_extraction.py
