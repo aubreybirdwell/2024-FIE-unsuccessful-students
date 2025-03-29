@@ -6,6 +6,10 @@ Valdemar Švábenský, Kristián Tkáčik, Aubrey Birdwell, Richard Weiss, Ryan 
 **Detecting Unsuccessful Students in Cybersecurity Exercises in Two Different Learning Environments**\
 In Proceedings of the 54th Frontiers in Education Conference (FIE 2024).
 
+https://doi.org/10.1109/FIE61694.2024.10893135
+
+Preprint: https://arxiv.org/pdf/2408.08531
+
 # How to cite
 
 If you use or build upon the materials, please use the BibTeX entry below to cite the original paper (not only this web link).
@@ -20,6 +24,8 @@ If you use or build upon the materials, please use the BibTeX entry below to cit
     address   = {New York, NY, USA},
     year      = {2024},
     numpages  = {9},
+    url       = {https://doi.org/10.1109/FIE61694.2024.10893135},
+    doi       = {10.1109/FIE61694.2024.10893135},
 }
 ```
 
